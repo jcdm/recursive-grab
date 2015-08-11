@@ -1,7 +1,7 @@
 recursive-grab
 ============
 
-MODX snippet for getting the value of a TV recursively, and optionally using a fallback document/tv combination.
+MODX snippet for getting the value of a TV recursively (checking through parents until a value is found), and optionally using a fallback document/tv combination.
 
 
 Usage
